@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.snacka.app",
+    "package_name": "com.snacka.call",
     "sha256_cert_fingerprints":
     ["94:C2:12:91:9E:D8:69:37:FD:97:81:D7:79:C0:D8:A4:2D:08:67:07:2C:F9:5F:82:DE:DA:EE:D1:B4:5C:A8:3D"]
   }
